@@ -27,12 +27,6 @@ The dataset used in this analysis is the "Online Retail" dataset, which contains
 - **UnitPrice**: Price per unit
 - **CustomerID**: Unique identifier for each customer
 
-## Getting Started
-
-1. **Clone the Repository**: Clone this repository to your local machine.
-2. **Install Required Packages**: Ensure all required Python libraries are installed as specified in the `requirements.txt` file.
-3. **Run the Jupyter Notebook**: Open the Jupyter Notebook to interact with the analysis.
-
 ## Analysis Steps
 
 ### Data Cleaning
